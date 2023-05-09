@@ -1,0 +1,49 @@
+#barraNavegacion{
+    height:105px;
+}
+#navbarNav{
+    font-size: 1.3em;
+}
+#laConferencia>img{
+    height:785px;
+
+}
+#losOradores{
+    max-height: 837px;
+}
+#elLugarYLaFecha{
+    height: 590px;
+}
+.oscurecer-img{
+    filter: brightness(50%); 
+    height: 50em;
+}
+#textoPpal{
+    height:785px;
+}
+#textoPpal>p{
+    font-size:1.3em;
+}
+#textoPpal>div>button{
+    font-size:1.3em;
+}
+#elLugarYLaFecha>div>div>p{
+    font-size: 1.18em;
+}
+#elLugarYLaFecha>div>div>h5{
+    font-size: 2.25em;
+}
+#elLugarYLaFecha>div>div>button{
+    font-size: 1.2em;
+}
+#logo-img{
+    height:105px;
+}
+#btn-submit{
+    background-color:#97c93f;
+    color: white;
+    font-size: 1vw;
+}
+#steve>div>button,#bill>div>button,#ada>div>button{
+    font-weight:900 ;
+}
