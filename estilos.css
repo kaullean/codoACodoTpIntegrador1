@@ -47,3 +47,17 @@
 #steve>div>button,#bill>div>button,#ada>div>button{
     font-weight:900 ;
 }
+#totalAPagar{
+   background-color: #cde4ff;
+
+}
+#botonesFormCompra>div>button{
+    background-color:#97c93f;
+    color:white;
+}
+#footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+ 
+}
